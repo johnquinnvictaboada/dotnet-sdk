@@ -7,9 +7,9 @@
     <PackageId>Utxorpc.Test.Sdk</PackageId>
     <Version>0.7.0-alpha</Version>
     <Authors>quinnvic.taboada@saib.dev</Authors>
-    <Company>TxPipe LLC</Company>
-    <PackageDescription>A gRPC interface for UTxO Blockchains</PackageDescription>
-    <RepositoryUrl>https://github.com/utxorpc</RepositoryUrl>
+    <Company>SAIB</Company>
+    <PackageDescription>..</PackageDescription>
+    <RepositoryUrl>..</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
