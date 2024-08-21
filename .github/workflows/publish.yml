@@ -20,6 +20,9 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
+    - name: List repository files
+      run: ls -al
+      
     - name: Execute publish script
       env:
         NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
