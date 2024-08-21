@@ -4,10 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>Utxorpc.Sdk</PackageId>
+    <PackageId>UtxorpcTestera.Sdk</PackageId>
     <Version>0.7.0-alpha</Version>
-    <Authors>clark@txpipe.io</Authors>
-    <Company>TxPipe LLC</Company>
+    <Authors>quinnvic.taboada@saib.dev</Authors>
+    <Company>SAIB</Company>
     <PackageDescription>A gRPC interface for UTxO Blockchains</PackageDescription>
     <RepositoryUrl>https://github.com/utxorpc</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
