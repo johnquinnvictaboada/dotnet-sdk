@@ -27,5 +27,5 @@ jobs:
       env:
         NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
       run: |
-        chmod +x ./publish.sh
-        ./publish.sh   
+        chmod +x "$(pwd)/publish.sh"
+        "$(pwd)/publish.sh"
